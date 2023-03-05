@@ -48,7 +48,7 @@ The NYGC dataset. These two examples show the importance of the speed and direct
 The ATC dataset. The predicted trajectory using DDPTP-no-attention-ID with 4 destinations and 4 intermediate destinations (only one of them is relevant to this trajectory.
 <img width="206" alt="Picture1" src="https://user-images.githubusercontent.com/8808539/198897485-c2b1f70b-ee2e-40e6-8501-95110af24e9c.png">
 
-## Reference
+## References
 [Alternative repository](https://github.com/YinHei-Chan/DDPTP)
 
 ## Acknowledgement
