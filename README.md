@@ -17,10 +17,7 @@ This repository contains prototype implementation of the Data-driven Pedestrian 
 
 The variants discussed in the paper and the baseline models, most notably a re-implementation of the [PoPPL](https://github.com/xuehaouwa/poppl) (Xue et al., 2020) model, are also included in the repository.
 
-DDPTP was designed by Andrew Kwok-Fai LUI and the implementaton of DDPTP was programmed by Yin-Hei Chan.
-
-### Alternative repository
-https://github.com/YinHei-Chan/DDPTP
+DDPTP was designed and implemented by Andrew Kwok-Fai LUI and Yin-Hei Chan
 
 ## Installation and Running
 
@@ -51,6 +48,8 @@ The NYGC dataset. These two examples show the importance of the speed and direct
 The ATC dataset. The predicted trajectory using DDPTP-no-attention-ID with 4 destinations and 4 intermediate destinations (only one of them is relevant to this trajectory.
 <img width="206" alt="Picture1" src="https://user-images.githubusercontent.com/8808539/198897485-c2b1f70b-ee2e-40e6-8501-95110af24e9c.png">
 
+## Reference
+[Alternative repository](https://github.com/YinHei-Chan/DDPTP)
 
 ## Acknowledgement
 The work described in this paper was fully supported by a grant from the Research Grants Council of the Hong Kong Special Administrative Region, China (UGC/FDS16/E12/20).
